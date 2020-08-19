@@ -2,6 +2,6 @@
 This is a sample app
 
 ## iCad todo
-parent App
+parent App, 
 Attendance mobile
 
